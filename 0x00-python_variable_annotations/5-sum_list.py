@@ -7,6 +7,9 @@ import typing
 
 
 def sum_list(input_list: typing.List[float]) -> float:
+    """
+    Sum the input_list
+    """
     # sum: float = 0
     # for x in input_list:
     #     sum += x
