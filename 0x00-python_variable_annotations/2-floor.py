@@ -6,4 +6,5 @@ a type-annotated function floor which takes a float n as argument
 
 
 def floor(n: float) -> int:
+    """ floors a float """
     return int(n)
